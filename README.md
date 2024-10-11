@@ -15,4 +15,4 @@ text the position of all the cubes in the chain.
 ## Comment utiliser ce projet
 1. **Téléchargez le dépôt** : Clonez ce dépôt ou téléchargez-le sous forme de fichier ZIP.
    ```bash
-   git clone https://github.com/tonutilisateur/mon-projet-de-signal-processing.git
+   git clone https://github.com/FlorentBoxus/ObjectOrientedProgramming
